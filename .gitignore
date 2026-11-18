@@ -1,0 +1,15 @@
+
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+node_modules/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+backend-backup*/
+*-backup*/
